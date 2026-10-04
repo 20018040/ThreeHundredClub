@@ -1,0 +1,20 @@
+# Xcode per-user state (window layout, breakpoints, scheme order)
+xcuserdata/
+*.xcuserstate
+
+# Build output
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+
+# Fastlane (for later)
+fastlane/report.xml
+fastlane/screenshots/**/*.png
+fastlane/test_output
